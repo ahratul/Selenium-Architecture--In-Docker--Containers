@@ -17,4 +17,8 @@ sudo docker ps -a
 # Scall up the instances command
 
 sudo docker-compose up --scale firefox=number(number of instace you want ex: any number) -d
+
+
+
+
 this command will crete n number of firefox broeser instances.
